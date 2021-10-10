@@ -1,0 +1,34 @@
+body{
+    background-image: url("NOICE.jpg");
+    background-size: cover;
+}
+
+#speed{
+    float: left;
+}
+#volume{
+    float: right;
+}
+button{
+    float: none;
+}
+
+#peterpanimage{
+    width: 300px;
+    height: 300px;
+    margin-left: 200px;
+}
+#harrypotterimage{
+    width: 300px;
+    height: 300px;
+    margin-right: 200px;
+}
+#songpeterpan{
+    margin-left: 200px;
+     font-weight: bold;
+}
+
+#songharrypotter{
+    margin-right: 200px;
+     font-weight: bold;
+}
